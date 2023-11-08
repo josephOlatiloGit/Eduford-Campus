@@ -536,12 +536,7 @@ h3 {
 
 /*----MEDIA QUERY---------------------------*/
 @media (max-width: 700px) {
-  /* body,
-  html {
-    margin: 0;
-    padding: 0;
-    overflow-x: hidden;
-  }
+
    */
   .tex-box h1 {
     font-size: 20px;
